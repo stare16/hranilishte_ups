@@ -1,1 +1,1 @@
-# hranilishte_ups
+# hranilishte_ups.project
